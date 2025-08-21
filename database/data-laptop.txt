@@ -1,0 +1,40 @@
+1|ASUS ROG Strix Scar 17|ASUS ROG Strix Scar 17 G732LXS|Intel Core i9-10980HK|NVIDIA GeForce RTX 3080|17.3-inch 300Hz|46485500
+2|Alienware m15 R4|Alienware m15 R4|Intel Core i7-10870H|NVIDIA GeForce RTX 3070|15.6-inch 300Hz|38667500
+3|MSI GE76 Raider|MSI GE76 Raider|Intel Core i9-11980HK|NVIDIA GeForce RTX 3080|17.3-inch 360Hz|49574500
+4|Acer Predator Helios 300|Acer Predator Helios 300|Intel Core i7-10750H|NVIDIA GeForce RTX 3060|15.6-inch 144Hz|20133500
+5|Razer Blade 15|Razer Blade 15 Advanced Model|Intel Core i7-10875H|NVIDIA GeForce RTX 3080|15.6-inch 360Hz|46500000
+6|Lenovo Legion 7|Lenovo Legion 7|AMD Ryzen 9 5900HX|NVIDIA GeForce RTX 3080|16-inch 165Hz|44894500
+7|HP Omen 15|HP Omen 15|AMD Ryzen 7 5800H|NVIDIA GeForce RTX 3060|15.6-inch 144Hz|23238500
+8|Gigabyte Aorus 15G|Gigabyte Aorus 15G|Intel Core i7-10870H|NVIDIA GeForce RTX 3070|15.6-inch 240Hz|34099500
+9|Dell G5 15 SE|Dell G5 15 SE|AMD Ryzen 7 4800H|AMD Radeon RX 5600M|15.6-inch 144Hz|18538500
+10|ASUS TUF Gaming A15|ASUS TUF Gaming A15|AMD Ryzen 9 5900HX|NVIDIA GeForce RTX 3070|15.6-inch 165Hz|27904500
+11|MSI GS66 Stealth|MSI GS66 Stealth|Intel Core i7-10870H|NVIDIA GeForce RTX 3060|15.6-inch 240Hz|29418500
+12|Alienware Area-51m|Alienware Area-51m R2|Intel Core i9-10900K|NVIDIA GeForce RTX 2080 Super|17.3-inch 300Hz|54244500
+13|Acer Nitro 5|Acer Nitro 5|AMD Ryzen 5 5600H|NVIDIA GeForce GTX 1650|15.6-inch 144Hz|15483500
+14|Lenovo Legion 5|Lenovo Legion 5|AMD Ryzen 7 5800H|NVIDIA GeForce RTX 3050 Ti|15.6-inch 120Hz|18538500
+15|HP Pavilion Gaming|HP Pavilion Gaming|Intel Core i5-10300H|NVIDIA GeForce GTX 1650|15.6-inch 144Hz|13929500
+16|ASUS ROG Zephyrus G14|ASUS ROG Zephyrus G14|AMD Ryzen 9 5900HS|NVIDIA GeForce RTX 3060|14-inch 120Hz|23238500
+17|MSI GL65 Leopard|MSI GL65 Leopard|Intel Core i7-10750H|NVIDIA GeForce GTX 1660 Ti|15.6-inch 144Hz|20133500
+18|Dell Alienware M17 R4|Dell Alienware M17 R4|Intel Core i9-10980HK|NVIDIA GeForce RTX 3080|17.3-inch 360Hz|51084500
+19|Gigabyte Aero 15 OLED|Gigabyte Aero 15 OLED|Intel Core i7-10870H|NVIDIA GeForce RTX 3070|15.6-inch OLED 240Hz|37144500
+20|ASUS ROG Zephyrus S17|ASUS ROG Zephyrus S17|Intel Core i7-10875H|NVIDIA GeForce RTX 2080 Super|17.3-inch 300Hz|46485500
+21|MacBook Air|M1 MacBook Air|Apple M1|Apple M1 GPU|13.3-inch Retina|15485500
+22|Dell XPS 13|Dell XPS 13 (2021)|Intel Core i7-1165G7|Intel Iris Xe Graphics|13.4-inch InfinityEdge|19348750
+23|Microsoft Surface Laptop 4|Microsoft Surface Laptop 4|Intel Core i5-1135G7|Intel Iris Xe Graphics|13.5-inch PixelSense|20133500
+24|HP Spectre x360|HP Spectre x360|Intel Core i7-1165G7|Intel Iris Xe Graphics|13.3-inch OLED|20133500
+25|Lenovo ThinkPad X1 Carbon|Lenovo ThinkPad X1 Carbon (9th Gen)|Intel Core i7-1165G7|Intel Iris Xe Graphics|14-inch HDR|23501450
+26|ASUS ZenBook 14|ASUS ZenBook 14 UX425EA|Intel Core i7-1165G7|Intel Iris Xe Graphics|14-inch NanoEdge|15485500
+27|Acer Swift 3|Acer Swift 3|AMD Ryzen 7 4700U|AMD Radeon Graphics|14-inch IPS|10824500
+28|LG Gram 17|LG Gram 17 (2021)|Intel Core i7-1165G7|Intel Iris Xe Graphics|17-inch WQXGA|27884500
+29|Dell Inspiron 14|Dell Inspiron 14 2-in-1|Intel Core i5-1135G7|Intel Iris Xe Graphics|14-inch FHD|10824500
+30|Huawei MateBook X Pro|Huawei MateBook X Pro (2021)|Intel Core i7-1165G7|NVIDIA GeForce MX250|13.9-inch 3K|24784500
+31|Microsoft Surface Book 3|Microsoft Surface Book 3|Intel Core i7-1065G7|NVIDIA GeForce GTX 1650|13.5-inch PixelSense|24784500
+32|Lenovo Yoga 9i|Lenovo Yoga 9i|Intel Core i7-1185G7|Intel Iris Xe Graphics|14-inch 4K IPS|24784500
+33|ASUS VivoBook S15|ASUS VivoBook S15|Intel Core i7-1165G7|Intel Iris Xe Graphics|15.6-inch FHD|15485500
+34|Samsung Galaxy Book Pro|Samsung Galaxy Book Pro|Intel Core i7-1165G7|Intel Iris Xe Graphics|15.6-inch AMOLED|18538500
+35|Acer Chromebook Spin 13|Acer Chromebook Spin 13|Intel Core i5-8250U|Intel UHD Graphics 620|13.5-inch QHD IPS|10824500
+36|Dell Latitude 7410|Dell Latitude 7410|Intel Core i7-10610U|Intel UHD Graphics|14-inch FHD|21678450
+37|Razer Book 13|Razer Book 13|Intel Core i7-1165G7|Intel Iris Xe Graphics|13.4-inch FHD|18538500
+38|Lenovo ThinkPad X1 Yoga|Lenovo ThinkPad X1 Yoga Gen 6|Intel Core i5-1135G7|Intel Iris Xe Graphics|14-inch HDR Touch|25078450
+39|HP Elite Dragonfly|HP Elite Dragonfly|Intel Core i5-8265U|Intel UHD Graphics 620|13.3-inch FHD|29408450
+40|ASUS ExpertBook B9|ASUS ExpertBook B9|Intel Core i7-1165G7|Intel Iris Xe Graphics|14-inch FHD|27884500
